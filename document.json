@@ -1,0 +1,6321 @@
+{
+  "documentLayout": {
+    "blocks": [{
+      "blockId": "1",
+      "textBlock": {
+        "text": "1",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "2",
+      "textBlock": {
+        "text": "2",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "3",
+      "textBlock": {
+        "text": "A length of copper wire is labelled: length 0.50 m and diameter 0.50 mm.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "4",
+      "textBlock": {
+        "text": "Which instruments are most suitable to measure accurately the length and the diameter of the wire?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "5",
+      "tableBlock": {
+        "bodyRows": [{
+          "cells": [{
+            "blocks": [{
+              "blockId": "6",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "7",
+              "textBlock": {
+                "text": "length",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "8",
+              "textBlock": {
+                "text": "diameter",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "9",
+              "textBlock": {
+                "text": "A",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "10",
+              "textBlock": {
+                "text": "metre rule",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "11",
+              "textBlock": {
+                "text": "metre rule",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "12",
+              "textBlock": {
+                "text": "B",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "13",
+              "textBlock": {
+                "text": "metre rule",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "14",
+              "textBlock": {
+                "text": "micrometer",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "15",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "16",
+              "textBlock": {
+                "text": "calipers",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "17",
+              "textBlock": {
+                "text": "metre rule",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "18",
+              "textBlock": {
+                "text": "D",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "19",
+              "textBlock": {
+                "text": "calipers",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "20",
+              "textBlock": {
+                "text": "micrometer",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "21",
+      "textBlock": {
+        "text": "2 A driver drives a car at uniform velocity along a road.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "22",
+      "textBlock": {
+        "text": "The driver sees a hazard and applies the brakes.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "23",
+      "textBlock": {
+        "text": "What is the car\u0027s motion as it moves through the thinking distance and as it moves through the braking distance?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "24",
+      "tableBlock": {
+        "bodyRows": [{
+          "cells": [{
+            "blocks": [{
+              "blockId": "25",
+              "textBlock": {
+                "text": "A",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "26",
+              "textBlock": {
+                "text": "motion through the thinking distance deceleration",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "27",
+              "textBlock": {
+                "text": "motion through the braking distance deceleration",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "28",
+              "textBlock": {
+                "text": "B",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "29",
+              "textBlock": {
+                "text": "deceleration",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "30",
+              "textBlock": {
+                "text": "uniform velocity",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "31",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "32",
+              "textBlock": {
+                "text": "uniform velocity",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "33",
+              "textBlock": {
+                "text": "deceleration",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "34",
+              "textBlock": {
+                "text": "D",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "35",
+              "textBlock": {
+                "text": "uniform velocity",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "36",
+              "textBlock": {
+                "text": "uniform velocity",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "37",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "38",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "39",
+      "textBlock": {
+        "text": "3",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "40",
+      "textBlock": {
+        "text": "3 The diagram represents the Moon in its orbit around the Earth.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "41",
+      "textBlock": {
+        "text": "Which arrow represents the direction of the resultant force acting on the Moon at the instant shown?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "42",
+      "textBlock": {
+        "text": "C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "43",
+      "textBlock": {
+        "text": "B",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "44",
+      "textBlock": {
+        "text": "Earth",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "45",
+      "textBlock": {
+        "text": "A",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "46",
+      "textBlock": {
+        "text": "D",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "47",
+      "textBlock": {
+        "text": "Moon",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "48",
+      "textBlock": {
+        "text": "direction of",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "49",
+      "textBlock": {
+        "text": "motion of the Moon",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "50",
+      "textBlock": {
+        "text": "4 The mass m of an object is related to its weight W and the gravitational field strength g.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "51",
+      "textBlock": {
+        "text": "Which equation shows the relationship?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "52",
+      "textBlock": {
+        "text": "A m\u003dW\\times g",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "53",
+      "textBlock": {
+        "text": "B",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "54",
+      "textBlock": {
+        "text": "m\u003d\\frac{W}{g}",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "55",
+      "textBlock": {
+        "text": "C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "56",
+      "textBlock": {
+        "text": "m\u003d\\frac{g}{W}",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "57",
+      "textBlock": {
+        "text": "Dmm\u003dW-g",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "58",
+      "textBlock": {
+        "text": "5 A plastic cube, of density p, is compressed so that each of its sides becomes one-half of its original length.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "59",
+      "textBlock": {
+        "text": "What is the new density of the material of the cube?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "60",
+      "textBlock": {
+        "text": "A 0.125p",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "61",
+      "textBlock": {
+        "text": "В 0.50р",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "62",
+      "textBlock": {
+        "text": "C 2.0p",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "63",
+      "textBlock": {
+        "text": "D 8.0p",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "64",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "65",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "66",
+      "textBlock": {
+        "text": "[Turn over",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 2,
+        "pageEnd": 2
+      }
+    }, {
+      "blockId": "67",
+      "textBlock": {
+        "text": "4",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "68",
+      "textBlock": {
+        "text": "6 Four glass objects have square bases of equal area.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "69",
+      "textBlock": {
+        "text": "Which object is the least stable?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "70",
+      "textBlock": {
+        "text": "A",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "71",
+      "textBlock": {
+        "text": "B",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "72",
+      "textBlock": {
+        "text": "C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "73",
+      "textBlock": {
+        "text": "D",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "74",
+      "textBlock": {
+        "text": "7 The initial pressure of a volume V_{1} of a fixed mass of gas is temperature until it has volume V_{2} and pressure p_{2}",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "75",
+      "textBlock": {
+        "text": "p_{1}. The gas expands at a constant",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "76",
+      "textBlock": {
+        "text": "Which statement about the pressure and volume of the gas is not correct?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "77",
+      "textBlock": {
+        "text": "A Pressure is measured in N/m^{3}",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "78",
+      "textBlock": {
+        "text": "B Pressure multiplied by volume is a constant.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "79",
+      "textBlock": {
+        "text": "1",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "80",
+      "textBlock": {
+        "text": "C Pressure is directly proportional to",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "81",
+      "textBlock": {
+        "text": "volume",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "82",
+      "textBlock": {
+        "text": "D The ratio of V_{1} to V_{2} is equal to the ratio of p_{2} to p_{1}.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "83",
+      "textBlock": {
+        "text": "8 A stone falls at terminal velocity in air.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "84",
+      "textBlock": {
+        "text": "What is equal to the change in gravitational potential energy of the stone?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "85",
+      "textBlock": {
+        "text": "A the change in kinetic energy",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "86",
+      "textBlock": {
+        "text": "B the change in temperature of the stone",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "87",
+      "textBlock": {
+        "text": "C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "88",
+      "textBlock": {
+        "text": "the friction between the stone and the air",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "89",
+      "textBlock": {
+        "text": "D the thermal energy produced",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "90",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "91",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 3,
+        "pageEnd": 3
+      }
+    }, {
+      "blockId": "92",
+      "textBlock": {
+        "text": "5",
+        "type": "header"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "93",
+      "textBlock": {
+        "text": "9 Water in a river is used to turn a turbine as the water flows downstream.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "94",
+      "textBlock": {
+        "text": "How is this type of power source described?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "95",
+      "textBlock": {
+        "text": "hydroelectric",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "96",
+      "textBlock": {
+        "text": "A",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "97",
+      "textBlock": {
+        "text": "B",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "98",
+      "textBlock": {
+        "text": "tidal",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "99",
+      "textBlock": {
+        "text": "C geothermal",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "100",
+      "textBlock": {
+        "text": "D nuclear",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "101",
+      "textBlock": {
+        "text": "10 A load is pulled by a rope attached to a motor. The resultant force exerted by the rope on the load is shown in the diagrams.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "102",
+      "textBlock": {
+        "text": "In each diagram, the load moves in the direction of the force shown and takes 10s to travel 1.0m.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "103",
+      "textBlock": {
+        "text": "In which diagram does the motor work with the greatest power?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "104",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "105",
+      "textBlock": {
+        "text": "A",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "106",
+      "textBlock": {
+        "text": "B",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "107",
+      "textBlock": {
+        "text": "8N",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "108",
+      "textBlock": {
+        "text": "12 N",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "109",
+      "textBlock": {
+        "text": "C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "110",
+      "textBlock": {
+        "text": "D",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "111",
+      "textBlock": {
+        "text": "10 N",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "112",
+      "textBlock": {
+        "text": "4N",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "113",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "114",
+      "textBlock": {
+        "text": "[Turn over",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 4,
+        "pageEnd": 4
+      }
+    }, {
+      "blockId": "115",
+      "textBlock": {
+        "text": "6",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "116",
+      "textBlock": {
+        "text": "11 The total energy incident in 1.0s on a group of solar panels is 120~J/m^{2}.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "117",
+      "textBlock": {
+        "text": "The group of solar panels converts 720 J of light energy to 120 J of useful electrical energy in 1.0 s.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "118",
+      "textBlock": {
+        "text": "What is the total surface area of the panels and what is the efficiency of the system?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "119",
+      "tableBlock": {
+        "bodyRows": [{
+          "cells": [{
+            "blocks": [{
+              "blockId": "120",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "121",
+              "textBlock": {
+                "text": "total surface area of solar panels/m^{2}",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "122",
+              "textBlock": {
+                "text": "efficiency/%",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "123",
+              "textBlock": {
+                "text": "A",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "124",
+              "textBlock": {
+                "text": "6.0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "125",
+              "textBlock": {
+                "text": "17",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "126",
+              "textBlock": {
+                "text": "B",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "127",
+              "textBlock": {
+                "text": "0.17",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "128",
+              "textBlock": {
+                "text": "6.0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "129",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "130",
+              "textBlock": {
+                "text": "6.0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "131",
+              "textBlock": {
+                "text": "6.0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "132",
+              "textBlock": {
+                "text": "D",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "133",
+              "textBlock": {
+                "text": "0.17",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "134",
+              "textBlock": {
+                "text": "17",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "135",
+      "textBlock": {
+        "text": "12 A 1000 W, 240 V electrical device is switched on.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "136",
+      "textBlock": {
+        "text": "How much energy does it use in 5.0 minutes?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "137",
+      "textBlock": {
+        "text": "A 5000 J",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "138",
+      "textBlock": {
+        "text": "B 12000 J",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "139",
+      "textBlock": {
+        "text": "C 72000 J",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "140",
+      "textBlock": {
+        "text": "D 300 000 J",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "141",
+      "textBlock": {
+        "text": "13 A building has walls made from wood and steel.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "142",
+      "textBlock": {
+        "text": "What describes the way in which thermal energy is transferred through the walls?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "143",
+      "textBlock": {
+        "text": "A conduction through the wood by movement of molecules through the wood only",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "144",
+      "textBlock": {
+        "text": "B conduction through the metal by both the vibration of particles and movement of electrons through the steel",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "145",
+      "textBlock": {
+        "text": "C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "146",
+      "textBlock": {
+        "text": "conduction through the wood by both the vibration and movement of molecules through the wood",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "147",
+      "textBlock": {
+        "text": "D convection through the metal by movement of electrons through the steel only",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "148",
+      "textBlock": {
+        "text": "14 A liquid column in a liquid-in-glass thermometer is 2.0 cm long at 0^{\\circ}C. The column expands by 10.0 cm when heated to 100^{\\circ}C.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "149",
+      "textBlock": {
+        "text": "2.0 cm",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "150",
+      "textBlock": {
+        "text": "P",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "151",
+      "textBlock": {
+        "text": "0^{\\circ}C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "152",
+      "textBlock": {
+        "text": "10.0 cm",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "153",
+      "textBlock": {
+        "text": "Measuring from P, how long is the liquid column at 30^{\\circ}C?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "154",
+      "textBlock": {
+        "text": "A 2.3 cm",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "155",
+      "textBlock": {
+        "text": "B 3.0 cm",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "156",
+      "textBlock": {
+        "text": "C 5.0 cm",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "157",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "158",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "159",
+      "textBlock": {
+        "text": "100^{\\circ}C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "160",
+      "textBlock": {
+        "text": "D 7.0 cm",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "161",
+      "textBlock": {
+        "text": "7",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "162",
+      "textBlock": {
+        "text": "15 In many applications, a thermocouple is used to measure temperature instead of a liquid-in-glass thermometer.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "163",
+      "textBlock": {
+        "text": "Which property of a thermocouple is a major advantage?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "164",
+      "textBlock": {
+        "text": "A its greater heat capacity",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "165",
+      "textBlock": {
+        "text": "B its smaller temperature range",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "166",
+      "textBlock": {
+        "text": "C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "167",
+      "textBlock": {
+        "text": "its quicker response time",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "168",
+      "textBlock": {
+        "text": "D",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "169",
+      "textBlock": {
+        "text": "it has a non-linear output",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "170",
+      "textBlock": {
+        "text": "16 A liquid-in-glass thermometer consists of a bulb containing a liquid which expands into a thin capillary tube.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "171",
+      "textBlock": {
+        "text": "bulb",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "172",
+      "textBlock": {
+        "text": "capillary tube",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "173",
+      "textBlock": {
+        "text": "The liquid in the thermometer is replaced by the same volume of a different liquid that expands more for the same temperature rise. The length of the capillary tube remains the same.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "174",
+      "textBlock": {
+        "text": "How does the new thermometer compare with the old thermometer?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "175",
+      "textBlock": {
+        "text": "A It has greater sensitivity and a greater range.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "176",
+      "textBlock": {
+        "text": "B It has greater sensitivity but a smaller range.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "177",
+      "textBlock": {
+        "text": "C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "178",
+      "textBlock": {
+        "text": "It has the same sensitivity and the same range.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "179",
+      "textBlock": {
+        "text": "D It has the same sensitivity but a greater range.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "180",
+      "textBlock": {
+        "text": "17 What is the usual symbol and what is the unit for the heat capacity of an object?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "181",
+      "tableBlock": {
+        "bodyRows": [{
+          "cells": [{
+            "blocks": [{
+              "blockId": "182",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "183",
+              "textBlock": {
+                "text": "symbol",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "184",
+              "textBlock": {
+                "text": "unit",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "185",
+              "textBlock": {
+                "text": "A",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "186",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "187",
+              "textBlock": {
+                "text": "J/^{\\circ}C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "188",
+              "textBlock": {
+                "text": "B",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "189",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "190",
+              "textBlock": {
+                "text": "J/(kg^{\\circ}C)",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "191",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "192",
+              "textBlock": {
+                "text": "H",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "193",
+              "textBlock": {
+                "text": "J/^{\\circ}C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "194",
+              "textBlock": {
+                "text": "D",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "195",
+              "textBlock": {
+                "text": "H",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "196",
+              "textBlock": {
+                "text": "J/(kg^{\\circ}C)",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "197",
+      "textBlock": {
+        "text": "18 Which row describes the arrangement of particles and the forces between particles in a solid?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "198",
+      "tableBlock": {
+        "bodyRows": [{
+          "cells": [{
+            "blocks": [{
+              "blockId": "199",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "200",
+              "textBlock": {
+                "text": "arrangement",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "201",
+              "textBlock": {
+                "text": "forces between",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "202",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "203",
+              "textBlock": {
+                "text": "of particles",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "204",
+              "textBlock": {
+                "text": "particles",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "205",
+              "textBlock": {
+                "text": "A",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "206",
+              "textBlock": {
+                "text": "regular",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "207",
+              "textBlock": {
+                "text": "strong",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "208",
+              "textBlock": {
+                "text": "B",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "209",
+              "textBlock": {
+                "text": "regular",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "210",
+              "textBlock": {
+                "text": "weak",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "211",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "212",
+              "textBlock": {
+                "text": "irregular",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "213",
+              "textBlock": {
+                "text": "strong",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "214",
+              "textBlock": {
+                "text": "D",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "215",
+              "textBlock": {
+                "text": "irregular",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "216",
+              "textBlock": {
+                "text": "weak",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "217",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "218",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "219",
+      "textBlock": {
+        "text": "[Turn over",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "220",
+      "textBlock": {
+        "text": "8",
+        "type": "header"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "221",
+      "textBlock": {
+        "text": "19 A wave in the sea collides with a cliff.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "222",
+      "textBlock": {
+        "text": "A crest of the wave hits the cliff once every 6.0 s.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "223",
+      "textBlock": {
+        "text": "The horizontal distance between a crest and the adjacent trough of the wave is 4.5 m.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "224",
+      "textBlock": {
+        "text": "What is the speed of the wave?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "225",
+      "textBlock": {
+        "text": "A 0.67~m/s",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "226",
+      "textBlock": {
+        "text": "B 0.75~m/s",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "227",
+      "textBlock": {
+        "text": "C 1.3~m/s",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "228",
+      "textBlock": {
+        "text": "D 1.5~m/s",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "229",
+      "textBlock": {
+        "text": "20 A sound wave refracts as it passes from air to water. Which quantities change?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "230",
+      "textBlock": {
+        "text": "A speed and frequency only",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "231",
+      "textBlock": {
+        "text": "B speed and wavelength only",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "232",
+      "textBlock": {
+        "text": "C wavelength and frequency only",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "233",
+      "textBlock": {
+        "text": "D",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "234",
+      "textBlock": {
+        "text": "speed, frequency and wavelength",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "235",
+      "textBlock": {
+        "text": "21 An object is viewed through a thin converging lens.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "236",
+      "textBlock": {
+        "text": "The diagram shows the paths of two rays from the top of the object to an eye.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "237",
+      "textBlock": {
+        "text": "thin converging lens",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "238",
+      "textBlock": {
+        "text": "object",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "239",
+      "textBlock": {
+        "text": "How does the image compare with the object?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "240",
+      "textBlock": {
+        "text": "A It is larger and inverted.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "241",
+      "textBlock": {
+        "text": "B",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "242",
+      "textBlock": {
+        "text": "It is larger and upright.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "243",
+      "textBlock": {
+        "text": "C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "244",
+      "textBlock": {
+        "text": "It is smaller and inverted.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "245",
+      "textBlock": {
+        "text": "D It is smaller and upright.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "246",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "247",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "248",
+      "textBlock": {
+        "text": "eye",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "249",
+      "textBlock": {
+        "text": "22 A ray of white light enters a prism as shown.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "250",
+      "textBlock": {
+        "text": "white light",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "251",
+      "textBlock": {
+        "text": "Which row is correct?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "252",
+      "textBlock": {
+        "text": "9",
+        "type": "header"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "253",
+      "textBlock": {
+        "text": "red light",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "254",
+      "textBlock": {
+        "text": "blue light",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "255",
+      "tableBlock": {
+        "bodyRows": [{
+          "cells": [{
+            "blocks": [{
+              "blockId": "256",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "257",
+              "textBlock": {
+                "text": "wave properties observed",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "258",
+              "textBlock": {
+                "text": "frequency of red light compared with frequency of blue light",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "259",
+              "textBlock": {
+                "text": "A",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "260",
+              "textBlock": {
+                "text": "dispersion only",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "261",
+              "textBlock": {
+                "text": "smaller",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "262",
+              "textBlock": {
+                "text": "B",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "263",
+              "textBlock": {
+                "text": "refraction only",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "264",
+              "textBlock": {
+                "text": "greater",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "265",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "266",
+              "textBlock": {
+                "text": "dispersion and refraction",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "267",
+              "textBlock": {
+                "text": "smaller",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "268",
+              "textBlock": {
+                "text": "D",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "269",
+              "textBlock": {
+                "text": "dispersion and refraction",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "270",
+              "textBlock": {
+                "text": "greater",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "271",
+      "textBlock": {
+        "text": "23 Which waves are not part of the electromagnetic spectrum?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "272",
+      "textBlock": {
+        "text": "A radio waves",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "273",
+      "textBlock": {
+        "text": "B television signals",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "274",
+      "textBlock": {
+        "text": "C ultrasound",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "275",
+      "textBlock": {
+        "text": "D ultraviolet",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "276",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "277",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "278",
+      "textBlock": {
+        "text": "[Turn over",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "279",
+      "textBlock": {
+        "text": "10",
+        "type": "header"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "280",
+      "textBlock": {
+        "text": "24 A man stands between two tall buildings, P and Q.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "281",
+      "textBlock": {
+        "text": "He is 50 m from P and 200 m from Q.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "282",
+      "textBlock": {
+        "text": "building P",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "283",
+      "textBlock": {
+        "text": "50 m",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "284",
+      "textBlock": {
+        "text": "horn",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "285",
+      "textBlock": {
+        "text": "building Q",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "286",
+      "textBlock": {
+        "text": "(not to scale)",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "287",
+      "textBlock": {
+        "text": "200 m",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "288",
+      "textBlock": {
+        "text": "NNNN",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "289",
+      "textBlock": {
+        "text": "He sounds a horn.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "290",
+      "textBlock": {
+        "text": "He hears the first echo from building P and 1.0 s later he hears the first echo from building Q.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "291",
+      "textBlock": {
+        "text": "What is the speed of sound calculated using this information?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "292",
+      "textBlock": {
+        "text": "A 250~m/s",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "293",
+      "textBlock": {
+        "text": "B 300~m/s",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "294",
+      "textBlock": {
+        "text": "C 330~m/s",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "295",
+      "textBlock": {
+        "text": "D 500~m/s",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "296",
+      "textBlock": {
+        "text": "25 Sound travels at different speeds in each of the three states of matter, solid, liquid and gas.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "297",
+      "textBlock": {
+        "text": "Which row shows where sound travels fastest and where sound travels slowest?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "298",
+      "tableBlock": {
+        "bodyRows": [{
+          "cells": [{
+            "blocks": [{
+              "blockId": "299",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "300",
+              "textBlock": {
+                "text": "state where sound travels fastest",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "301",
+              "textBlock": {
+                "text": "state where sound travels slowest",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "302",
+              "textBlock": {
+                "text": "A",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "303",
+              "textBlock": {
+                "text": "gas",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "304",
+              "textBlock": {
+                "text": "liquid",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "305",
+              "textBlock": {
+                "text": "B",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "306",
+              "textBlock": {
+                "text": "gas",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "307",
+              "textBlock": {
+                "text": "solid",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "308",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "309",
+              "textBlock": {
+                "text": "liquid",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "310",
+              "textBlock": {
+                "text": "gas",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "311",
+              "textBlock": {
+                "text": "D",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "312",
+              "textBlock": {
+                "text": "solid",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "313",
+              "textBlock": {
+                "text": "gas",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 9,
+                "pageEnd": 9
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "314",
+      "textBlock": {
+        "text": "26 What is one of the uses of ultrasound?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "315",
+      "textBlock": {
+        "text": "A cleaning jewellery",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "316",
+      "textBlock": {
+        "text": "B fluorescent tubes",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "317",
+      "textBlock": {
+        "text": "Coptical fibres",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "318",
+      "textBlock": {
+        "text": "D sunbeds",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "319",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "320",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 9,
+        "pageEnd": 9
+      }
+    }, {
+      "blockId": "321",
+      "textBlock": {
+        "text": "11",
+        "type": "header"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "322",
+      "textBlock": {
+        "text": "27 Which material is used for the core of an electromagnet?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "323",
+      "textBlock": {
+        "text": "A aluminium",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "324",
+      "textBlock": {
+        "text": "B",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "325",
+      "textBlock": {
+        "text": "copper",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "326",
+      "textBlock": {
+        "text": "C iron",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "327",
+      "textBlock": {
+        "text": "D steel",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "328",
+      "textBlock": {
+        "text": "28 Two metal spheres are mounted on insulating stands. Sphere X is initially uncharged and sphere Y is initially positively charged.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "329",
+      "textBlock": {
+        "text": "A metal rod, held by an insulating handle, is placed in contact with X and Y as shown.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "330",
+      "textBlock": {
+        "text": "X",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "331",
+      "textBlock": {
+        "text": "Y",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "332",
+      "textBlock": {
+        "text": "metal rod",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "333",
+      "textBlock": {
+        "text": "insulating handle",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "334",
+      "textBlock": {
+        "text": "What are the charges on X and on Y after the rod is placed in contact with them?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "335",
+      "tableBlock": {
+        "bodyRows": [{
+          "cells": [{
+            "blocks": [{
+              "blockId": "336",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "337",
+              "textBlock": {
+                "text": "charge on X",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "338",
+              "textBlock": {
+                "text": "charge on Y",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "339",
+              "textBlock": {
+                "text": "A",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "340",
+              "textBlock": {
+                "text": "positive",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "341",
+              "textBlock": {
+                "text": "positive",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "342",
+              "textBlock": {
+                "text": "B",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "343",
+              "textBlock": {
+                "text": "positive",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "344",
+              "textBlock": {
+                "text": "uncharged",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "345",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "346",
+              "textBlock": {
+                "text": "uncharged",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "347",
+              "textBlock": {
+                "text": "positive",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "348",
+              "textBlock": {
+                "text": "D",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "349",
+              "textBlock": {
+                "text": "uncharged",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "350",
+              "textBlock": {
+                "text": "uncharged",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 10,
+                "pageEnd": 10
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "351",
+      "textBlock": {
+        "text": "29 Which device involves the use of static electrical charges?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "352",
+      "textBlock": {
+        "text": "A",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "353",
+      "textBlock": {
+        "text": "a computer hard disk drive",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "354",
+      "textBlock": {
+        "text": "B",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "355",
+      "textBlock": {
+        "text": "a motor",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "356",
+      "textBlock": {
+        "text": "C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "357",
+      "textBlock": {
+        "text": "a photocopier",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "358",
+      "textBlock": {
+        "text": "D a transformer",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "359",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "360",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "361",
+      "textBlock": {
+        "text": "[Turn over",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 10,
+        "pageEnd": 10
+      }
+    }, {
+      "blockId": "362",
+      "textBlock": {
+        "text": "12",
+        "type": "header"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "363",
+      "textBlock": {
+        "text": "30 An initially uncharged copper rod is placed in a uniform electric field E. The rod is parallel to the field.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "364",
+      "textBlock": {
+        "text": "Which diagram shows the charges induced on the rod?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "365",
+      "textBlock": {
+        "text": "A",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "366",
+      "textBlock": {
+        "text": "direction of electric field E",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "367",
+      "textBlock": {
+        "text": "direction of electric field E",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "368",
+      "textBlock": {
+        "text": "B",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "369",
+      "textBlock": {
+        "text": "+",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "370",
+      "textBlock": {
+        "text": "C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "371",
+      "textBlock": {
+        "text": "+",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "372",
+      "textBlock": {
+        "text": "D",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "373",
+      "textBlock": {
+        "text": "direction of electric field E",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "374",
+      "textBlock": {
+        "text": "direction of electric field E",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "375",
+      "textBlock": {
+        "text": "+",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "376",
+      "textBlock": {
+        "text": "31 The diagram shows a simple electric circuit.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "377",
+      "textBlock": {
+        "text": "+",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "378",
+      "textBlock": {
+        "text": "X",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "379",
+      "textBlock": {
+        "text": "Y",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "380",
+      "textBlock": {
+        "text": "Which row describes the charge on an electron and the direction of electron flow through the resistor?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "381",
+      "tableBlock": {
+        "bodyRows": [{
+          "cells": [{
+            "blocks": [{
+              "blockId": "382",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "383",
+              "textBlock": {
+                "text": "charge on an electron",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "384",
+              "textBlock": {
+                "text": "direction of electron flow",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "385",
+              "textBlock": {
+                "text": "A",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "386",
+              "textBlock": {
+                "text": "negative",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "387",
+              "textBlock": {
+                "text": "X to Y",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "388",
+              "textBlock": {
+                "text": "B",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "389",
+              "textBlock": {
+                "text": "negative",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "390",
+              "textBlock": {
+                "text": "Y to X",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "391",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "392",
+              "textBlock": {
+                "text": "positive",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "393",
+              "textBlock": {
+                "text": "X to Y",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "394",
+              "textBlock": {
+                "text": "D",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "395",
+              "textBlock": {
+                "text": "positive",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "396",
+              "textBlock": {
+                "text": "Y to X",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 11,
+                "pageEnd": 11
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "397",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "398",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 11,
+        "pageEnd": 11
+      }
+    }, {
+      "blockId": "399",
+      "textBlock": {
+        "text": "13",
+        "type": "header"
+      },
+      "pageSpan": {
+        "pageStart": 12,
+        "pageEnd": 12
+      }
+    }, {
+      "blockId": "400",
+      "textBlock": {
+        "text": "32 When the flash on a camera is used, a charge of 1.5 C flows for 0.0030 s through the flash lamp. The average voltage across the flash lamp is 3600 V.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 12,
+        "pageEnd": 12
+      }
+    }, {
+      "blockId": "401",
+      "textBlock": {
+        "text": "What is the electrical energy supplied to the flash lamp and what is the average power supplied?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 12,
+        "pageEnd": 12
+      }
+    }, {
+      "blockId": "402",
+      "tableBlock": {
+        "bodyRows": [{
+          "cells": [{
+            "blocks": [{
+              "blockId": "403",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "404",
+              "textBlock": {
+                "text": "energy/J",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "405",
+              "textBlock": {
+                "text": "power/W",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "406",
+              "textBlock": {
+                "text": "A",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "407",
+              "textBlock": {
+                "text": "2400",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "408",
+              "textBlock": {
+                "text": "7.2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "409",
+              "textBlock": {
+                "text": "B",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "410",
+              "textBlock": {
+                "text": "2400",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "411",
+              "textBlock": {
+                "text": "800 000",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "412",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "413",
+              "textBlock": {
+                "text": "5400",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "414",
+              "textBlock": {
+                "text": "16.2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "415",
+              "textBlock": {
+                "text": "D",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "416",
+              "textBlock": {
+                "text": "5400",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "417",
+              "textBlock": {
+                "text": "1.8\\times10^{6}",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 12,
+        "pageEnd": 12
+      }
+    }, {
+      "blockId": "418",
+      "textBlock": {
+        "text": "33 What is the unit of potential difference (p.d.) and which measuring instrument is used to measure p.d.?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 12,
+        "pageEnd": 12
+      }
+    }, {
+      "blockId": "419",
+      "tableBlock": {
+        "bodyRows": [{
+          "cells": [{
+            "blocks": [{
+              "blockId": "420",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "421",
+              "textBlock": {
+                "text": "unit",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "422",
+              "textBlock": {
+                "text": "instrument",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "423",
+              "textBlock": {
+                "text": "A",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "424",
+              "textBlock": {
+                "text": "ampere",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "425",
+              "textBlock": {
+                "text": "ammeter",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "426",
+              "textBlock": {
+                "text": "B",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "427",
+              "textBlock": {
+                "text": "ampere",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "428",
+              "textBlock": {
+                "text": "voltmeter",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "429",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "430",
+              "textBlock": {
+                "text": "volt",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "431",
+              "textBlock": {
+                "text": "ammeter",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "432",
+              "textBlock": {
+                "text": "D",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "433",
+              "textBlock": {
+                "text": "volt",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "434",
+              "textBlock": {
+                "text": "voltmeter",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 12,
+                "pageEnd": 12
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 12,
+        "pageEnd": 12
+      }
+    }, {
+      "blockId": "435",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 12,
+        "pageEnd": 12
+      }
+    }, {
+      "blockId": "436",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 12,
+        "pageEnd": 12
+      }
+    }, {
+      "blockId": "437",
+      "textBlock": {
+        "text": "[Turn over",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 12,
+        "pageEnd": 12
+      }
+    }, {
+      "blockId": "438",
+      "textBlock": {
+        "text": "14",
+        "type": "header"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "439",
+      "textBlock": {
+        "text": "34 The diagrams show four circuits. Each circuit contains three 100Ω resistors.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "440",
+      "textBlock": {
+        "text": "Which circuit has the smallest total resistance?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "441",
+      "textBlock": {
+        "text": "A",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "442",
+      "textBlock": {
+        "text": "B",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "443",
+      "textBlock": {
+        "text": "南 山",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "444",
+      "textBlock": {
+        "text": "100Ω",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "445",
+      "textBlock": {
+        "text": "100 Ω",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "446",
+      "textBlock": {
+        "text": "100 Ω",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "447",
+      "textBlock": {
+        "text": "100 Ω",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "448",
+      "textBlock": {
+        "text": "100 Ω",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "449",
+      "textBlock": {
+        "text": "100 Ω",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "450",
+      "textBlock": {
+        "text": "C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "451",
+      "textBlock": {
+        "text": "D",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "452",
+      "textBlock": {
+        "text": "100 Ω",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "453",
+      "textBlock": {
+        "text": "100 Ω",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "454",
+      "textBlock": {
+        "text": "100 Ω",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "455",
+      "textBlock": {
+        "text": "100 Ω",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "456",
+      "textBlock": {
+        "text": "100 Ω",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "457",
+      "textBlock": {
+        "text": "100 Ω",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "458",
+      "textBlock": {
+        "text": "35 A metal kettle is plugged into a mains socket. The plug contains a suitable fuse.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "459",
+      "textBlock": {
+        "text": "The kettle\u0027s cable is damaged and the fuse blows.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "460",
+      "textBlock": {
+        "text": "Why does the fuse blow?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "461",
+      "textBlock": {
+        "text": "A The bare earth wire in the cable touches the bare live wire.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "462",
+      "textBlock": {
+        "text": "B The metal casing of the kettle touches the bare earth wire.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "463",
+      "textBlock": {
+        "text": "C The bare neutral wire in the cable touches the bare earth wire.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "464",
+      "textBlock": {
+        "text": "D The live wire breaks without touching any other wire.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "465",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "466",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 13,
+        "pageEnd": 13
+      }
+    }, {
+      "blockId": "467",
+      "textBlock": {
+        "text": "15",
+        "type": "header"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "468",
+      "textBlock": {
+        "text": "36 As a magnet is moved into the coil of wire as shown, there is a small positive reading on the sensitive ammeter.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "469",
+      "textBlock": {
+        "text": "A",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "470",
+      "textBlock": {
+        "text": "N",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "471",
+      "textBlock": {
+        "text": "S",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "472",
+      "textBlock": {
+        "text": "Which change must increase the size of the reading?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "473",
+      "textBlock": {
+        "text": "A moving the opposite pole into the coil",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "474",
+      "textBlock": {
+        "text": "B pulling the magnet out of the coil",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "475",
+      "textBlock": {
+        "text": "C pushing the magnet in faster",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "476",
+      "textBlock": {
+        "text": "D unwinding some of the turns of wire",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "477",
+      "textBlock": {
+        "text": "37 The diagram shows the circuit for a model power line with two transformers and a lamp at the output.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "478",
+      "textBlock": {
+        "text": "input a.c. voltage",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "479",
+      "textBlock": {
+        "text": "24 V",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "480",
+      "textBlock": {
+        "text": "10 100 turns turns",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "481",
+      "textBlock": {
+        "text": "200 40 turns turns",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "482",
+      "textBlock": {
+        "text": "What is the input voltage?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "483",
+      "textBlock": {
+        "text": "A 0.12V",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "484",
+      "textBlock": {
+        "text": "B 6.0 V",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "485",
+      "textBlock": {
+        "text": "C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "486",
+      "textBlock": {
+        "text": "12V",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "487",
+      "textBlock": {
+        "text": "D 96 V",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "488",
+      "textBlock": {
+        "text": "38 Electrical power is transmitted by cables over long distances at very high voltages.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "489",
+      "textBlock": {
+        "text": "What are the effects of using a high voltage transmission system?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "490",
+      "tableBlock": {
+        "bodyRows": [{
+          "cells": [{
+            "blocks": [{
+              "blockId": "491",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "492",
+              "textBlock": {
+                "text": "power loss in the cables",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "493",
+              "textBlock": {
+                "text": "current in the cables",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "494",
+              "textBlock": {
+                "text": "A",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "495",
+              "textBlock": {
+                "text": "high",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "496",
+              "textBlock": {
+                "text": "high",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "497",
+              "textBlock": {
+                "text": "B",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "498",
+              "textBlock": {
+                "text": "high",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "499",
+              "textBlock": {
+                "text": "low",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "500",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "501",
+              "textBlock": {
+                "text": "low",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "502",
+              "textBlock": {
+                "text": "high",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "503",
+              "textBlock": {
+                "text": "D",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "504",
+              "textBlock": {
+                "text": "low",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "505",
+              "textBlock": {
+                "text": "low",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 14,
+                "pageEnd": 14
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "506",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "507",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "508",
+      "textBlock": {
+        "text": "[Turn over",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 14,
+        "pageEnd": 14
+      }
+    }, {
+      "blockId": "509",
+      "textBlock": {
+        "text": "16",
+        "type": "header"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "510",
+      "textBlock": {
+        "text": "39 The diagram shows a beam of electrons about to enter a magnetic field. The magnetic field is",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "511",
+      "textBlock": {
+        "text": "directed into the page.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "512",
+      "textBlock": {
+        "text": "X",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "513",
+      "textBlock": {
+        "text": "X",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "514",
+      "textBlock": {
+        "text": "X",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "515",
+      "textBlock": {
+        "text": "X",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "516",
+      "textBlock": {
+        "text": "magnetic field into the page",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "517",
+      "textBlock": {
+        "text": "beam of",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "518",
+      "textBlock": {
+        "text": "X",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "519",
+      "textBlock": {
+        "text": "X",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "520",
+      "textBlock": {
+        "text": "X",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "521",
+      "textBlock": {
+        "text": "X",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "522",
+      "textBlock": {
+        "text": "electrons",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "523",
+      "textBlock": {
+        "text": "X",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "524",
+      "textBlock": {
+        "text": "X",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "525",
+      "textBlock": {
+        "text": "X",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "526",
+      "textBlock": {
+        "text": "X",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "527",
+      "textBlock": {
+        "text": "What is the direction of the deflection of the electrons as they enter the magnetic field?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "528",
+      "textBlock": {
+        "text": "A into the page",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "529",
+      "textBlock": {
+        "text": "Bout of the page",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "530",
+      "textBlock": {
+        "text": "C",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "531",
+      "textBlock": {
+        "text": "up the page",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "532",
+      "textBlock": {
+        "text": "D down the page",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "533",
+      "textBlock": {
+        "text": "40 In the Geiger-Marsden experiment, alpha-particles are fired at a thin gold sheet.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "534",
+      "textBlock": {
+        "text": "alpha-particles",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "535",
+      "textBlock": {
+        "text": "source",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "536",
+      "textBlock": {
+        "text": "gold sheet",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "537",
+      "textBlock": {
+        "text": "Most alpha-particles pass straight through the thin gold sheet.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "538",
+      "textBlock": {
+        "text": "A few are deflected.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "539",
+      "textBlock": {
+        "text": "What can be deduced from this experiment?",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "540",
+      "textBlock": {
+        "text": "A The nucleus is very small.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "541",
+      "textBlock": {
+        "text": "B The nucleus has no charge.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "542",
+      "textBlock": {
+        "text": "C Electrons surround the nucleus.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "543",
+      "textBlock": {
+        "text": "D",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "544",
+      "textBlock": {
+        "text": "Electrons have a negative charge.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "545",
+      "textBlock": {
+        "text": "detector",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "546",
+      "textBlock": {
+        "text": "Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the publisher will be pleased to make amends at the earliest possible opportunity.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "547",
+      "textBlock": {
+        "text": "To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "548",
+      "textBlock": {
+        "text": "Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "549",
+      "textBlock": {
+        "text": "UCLES 2022",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }, {
+      "blockId": "550",
+      "textBlock": {
+        "text": "5054/11/M/J/22",
+        "type": "footer"
+      },
+      "pageSpan": {
+        "pageStart": 15,
+        "pageEnd": 15
+      }
+    }]
+  }
+}
