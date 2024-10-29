@@ -19,3 +19,5 @@ def pdf_to_images(pdf_path, output_folder):
 pdf_path = 'output-bio.pdf'
 output_folder = 'output_images'
 pdf_to_images(pdf_path, output_folder)  
+
+
