@@ -13,11 +13,13 @@ import re
 # VARIABLES
 
 # INPUT_PDF_PATH = 'input.pdf'
-INPUT_PDF_FILE = 'input/9700_s19_12.pdf'
+INPUT_PDF_FILE = 'physics/9702_m24_12.pdf'
 OUTPUT_PDF_NAME = 'output-removed-pages.pdf' 
 OUTPUT_IMAGES_PATH = 'output_images'
 OUTPUT_CROPPED_IMAGES_PATH = 'output_cropped_images'
-PAGES_TO_REMOVE = [1, 3, 5]
+# PAGES_TO_REMOVE = [1, 3, 5]
+PAGES_TO_REMOVE = [1, 16, 17, 18, 19, 20]
+# PAGES_TO_REMOVE = [1,  3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 OUTPUT_IMAGES_DIR = 'output_images'
 MARKED_IMAGES_DIR = 'marked-image'
 FINAL_IMAGES_DIR = 'final-results'
@@ -83,12 +85,14 @@ def crop_images(input_dir, output_dir):
             
             
 # step 4
-def detect_questions(image_path):
+def detect_questions(image_path, x_threshold=50):
     """
-    Detect questions in an image using question numbers as breakpoints.
-    
+    Detect questions in an image using question numbers as breakpoints,
+    only recognizing numbers that start within a specific x-coordinate range.
+
     Args:
         image_path: Path to the image file.
+        x_threshold: Maximum x-coordinate from the left for a number to be considered a question number.
     Returns:
         List of (x, y, w, h) coordinates for each question and question number sequence.
     """
@@ -100,7 +104,7 @@ def detect_questions(image_path):
     # Get text and bounding boxes using Tesseract
     custom_config = r'--oem 3 --psm 6'
     data = pytesseract.image_to_data(gray, config=custom_config, output_type=pytesseract.Output.DICT)
-    
+    print(data['text'])
     questions = []
     question_start_indices = []
     question_number_sequence = []
@@ -111,13 +115,15 @@ def detect_questions(image_path):
     for i, text in enumerate(data['text']):
         text = text.strip()
         if re.match(question_pattern, text):
-            # Remove period and convert to integer
-            number_text = re.sub(r'\.', '', text)
-            if number_text.isdigit():
-                number = int(number_text)
-                if not question_number_sequence or question_number_sequence[-1] + 1 == number:
-                    question_number_sequence.append(number)
-                    question_start_indices.append(i)
+            # Check if x-coordinate is within the threshold
+            if data['left'][i] < x_threshold:
+                # Remove period and convert to integer
+                number_text = re.sub(r'\.', '', text)
+                if number_text.isdigit():
+                    number = int(number_text)
+                    if not question_number_sequence or question_number_sequence[-1] + 1 == number:
+                        question_number_sequence.append(number)
+                        question_start_indices.append(i)
     
     # Create bounding boxes based on question positions
     for idx, start_idx in enumerate(question_start_indices):
@@ -151,7 +157,7 @@ def detect_questions(image_path):
     # Convert to (x, y, w, h) format and return question number sequence as well
     question_boxes = [(q['x'], q['y'], q['max_x'] - q['x'], q['max_y'] - q['y']) for q in questions]
     return question_boxes, question_number_sequence
-    
+
 
 def draw_question_boxes(image_path, output_path):
     """

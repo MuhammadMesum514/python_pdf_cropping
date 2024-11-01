@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.2">
+  <diagram name="Page-1" id="CrYW5pB3ZpR52Jb0hZyG">
+    <mxGraphModel dx="1886" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sGMB7VZo8cXuw2Qb4S5g-1" target="sGMB7VZo8cXuw2Qb4S5g-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-1" value="Curator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="229" width="30" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.036;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sGMB7VZo8cXuw2Qb4S5g-3" target="sGMB7VZo8cXuw2Qb4S5g-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="904" y="249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-wrap-mode: wrap;&quot;&gt;Paper Doc&lt;/span&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="1">
+          <mxGeometry x="730" y="216" width="57" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sGMB7VZo8cXuw2Qb4S5g-8" target="sGMB7VZo8cXuw2Qb4S5g-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="320" />
+              <mxPoint x="990" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-8" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.process" vertex="1" parent="1">
+          <mxGeometry x="955.2" y="220" width="58.8" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Process document to&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;get image ready&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="229" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sGMB7VZo8cXuw2Qb4S5g-11" target="sGMB7VZo8cXuw2Qb4S5g-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-11" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/vpc/ImageService.svg;" vertex="1" parent="1">
+          <mxGeometry x="944.6" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-13" value="These images will be input for OCR processing&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="475" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sGMB7VZo8cXuw2Qb4S5g-15" target="sGMB7VZo8cXuw2Qb4S5g-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sGMB7VZo8cXuw2Qb4S5g-15" target="sGMB7VZo8cXuw2Qb4S5g-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-15" value="internal Processing" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
+          <mxGeometry x="962" y="560" width="52" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-18" value="Output question region marking" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/seo-web-1-filled-outline/64/keyword-search_result-seo-128.png" vertex="1" parent="1">
+          <mxGeometry x="700" y="660" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sGMB7VZo8cXuw2Qb4S5g-19" target="sGMB7VZo8cXuw2Qb4S5g-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-19" value="Output Question" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="1">
+          <mxGeometry x="1166" y="675" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sGMB7VZo8cXuw2Qb4S5g-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-21" value="S3 Storage" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="870" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-26" value="DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="870" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sGMB7VZo8cXuw2Qb4S5g-3" target="sGMB7VZo8cXuw2Qb4S5g-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="330" />
+              <mxPoint x="630" y="330" />
+              <mxPoint x="630" y="968" />
+              <mxPoint x="1130" y="968" />
+              <mxPoint x="1130" y="929" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGMB7VZo8cXuw2Qb4S5g-28" value="BG- Question Auto Cropping Workflow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="710" y="50" width="450" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
